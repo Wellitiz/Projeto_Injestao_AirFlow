@@ -1,0 +1,15 @@
+v (Volume): - Representa o volume de negociação, que é a quantidade total de ações negociadas durante o período.
+
+vw (Volume Weighted Average Price): - É o preço médio ponderado pelo volume das transações durante o período.
+
+o (Open): - É o preço de abertura da ação no início do período.
+
+c (Close): - É o preço de fechamento da ação no final do período.
+
+h (High): - Representa o preço mais alto atingido pela ação durante o período.
+
+l (Low): - Representa o preço mais baixo atingido pela ação durante o período.
+
+t (Timestamp): - É um carimbo de data/hora em milissegundos desde a época, geralmente representando o final do período.
+
+n (Number of Trades): - Indica o número total de negociações que ocorreram durante o período.
